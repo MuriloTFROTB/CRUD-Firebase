@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943452458673",
+    "project_id": "final-crud09",
+    "storage_bucket": "final-crud09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943452458673:android:2cc09e05f51ce78dd85c90",
+        "android_client_info": {
+          "package_name": "com.example.naofacoideia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaZ3e5ZigHPnuRiaAZFIvmIhlDzuDH1dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
